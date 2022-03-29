@@ -88,8 +88,4 @@ lazy val core = project
     output,
     tests
   )
-  .settings(
-    publish / skip := true,
-    publishLocal / skip := true,
-    publishTo := None
-  )
+  .settings(noPublishSettings)

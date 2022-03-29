@@ -1,4 +1,5 @@
 ## Databricks-Spark-Rules 
+[![Release](https://github.com/i10416/databricks-spark-rules/actions/workflows/release.yaml/badge.svg)](https://github.com/i10416/databricks-spark-rules/actions/workflows/release.yaml)
 
 Scalafix rules for Databricks Spark.
 

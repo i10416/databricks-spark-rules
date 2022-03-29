@@ -1,0 +1,3 @@
+fix.UnsafeSparkStopCall
+fix.UnsafeSparkConstructors
+fix.UnsafeSysExit

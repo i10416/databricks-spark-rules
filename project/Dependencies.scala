@@ -14,7 +14,7 @@ object Deps {
     "org.scala-lang.modules" %% "scala-collection-compat" % "2.7.0"
   )
   val catsEffect = Seq(
-    "org.typelevel" %% "cats-effect" % "3.3.9"
+    "org.typelevel" %% "cats-effect" % "3.4-389-3862cf0"
   )
 
   val scalafix = Seq(

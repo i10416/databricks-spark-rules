@@ -1,6 +1,6 @@
 import sbt._
 object Deps {
-  val sparkVersion = "3.2.1"
+  val sparkVersion = "3.2.2"
   val scalafixVersion = "0.9.34"
   val sparkBasic = Seq(
     "org.apache.spark" %% "spark-core" % sparkVersion,
